@@ -10,7 +10,7 @@
 
 ## About This Project
 
-This is an eCommerce Website, admin can create new users and  category, subcategory, Brand Module, Products and it can show all this information on the webpage
+This is an eCommerce Website, Inside This project admin can create new users and categories, subcategories, Brand Module, Products, and all this information can show on the webpage
 
 
 
